@@ -1,0 +1,8 @@
+Step 1:- update System
+sudo apt update && sudo apt upgrade -y
+
+step 2:- install docker
+sudo apt install docker.io
+
+step 3:- check version of docker 
+docker --version
